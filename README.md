@@ -1,24 +1,26 @@
-# Data Structures and Algorithms in Java
+# DSA in Java
 
-This repository contains my solutions and notes for **Data Structures and Algorithms implemented in Java**.  
-It documents my journey of learning problem solving and preparing for **software engineering placements**.
+This repository contains my solutions to **Data Structures and Algorithms problems implemented in Java**.  
+It documents my journey of improving problem-solving skills while preparing for **software engineering placements**.
 
-The repository includes solutions to problems from platforms like **LeetCode, HackerRank, and coding practice sheets**, along with explanations and complexity analysis.
+Problems are solved from platforms like **LeetCode** and **GeeksforGeeks**, and organized by topic as I continue learning new concepts.
 
 ---
 
-## Goals
+## Purpose
 
 - Strengthen problem-solving skills
-- Master core Data Structures and Algorithms
-- Prepare for coding interviews and technical assessments
-- Write clean, optimized, and well-documented Java code
+- Practice DSA using Java
+- Prepare for coding interviews
+- Maintain a structured record of solved problems
 
 ---
 
-## Topics Covered
+## Topics
 
-The repository is organized by topic:
+Topics and folders will be **added progressively** as I learn and solve problems.
+
+Current and upcoming topics include:
 
 - Arrays
 - Strings
@@ -35,16 +37,19 @@ The repository is organized by topic:
 - Greedy Algorithms
 - Hashing
 
+More topics will be added as the learning journey progresses.
+
 ---
 
 ## Problem Format
 
-Each problem solution generally includes:
+Each solution typically includes:
 
-- Problem description
-- Approach / intuition
+- Problem name
+- Source (LeetCode / GeeksforGeeks)
+- Approach / explanation
 - Java implementation
 - Time Complexity
 - Space Complexity
 
-Example structure inside files:
+Example format:
